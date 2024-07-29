@@ -38,7 +38,7 @@ export default function App() {
                                     tickLine={false}
                                     className="text-xs font-dm"
                                 />
-                                <Tooltip labelClassName="" />
+                                <Tooltip />
                                 <Bar
                                     dataKey="amount"
                                     fill="#dc7c64"
