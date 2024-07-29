@@ -25,7 +25,7 @@ export default function App() {
                     </div>
                     <img src={Logo} alt="logo" className="h-10" />
                 </div>
-                <div className="flex flex-col px-7 py-7 bg-white rounded-2xl gap-4">
+                <div className="flex flex-col px-7 py-7 bg-c_Very_pale_orange rounded-2xl gap-4">
                     <h1 className="font-dm text-black font-bold text-2xl">
                         Spending - Last 7 days
                     </h1>
